@@ -1,6 +1,6 @@
 # CMSC818J Assignment 2 - HPCG Benchmark
 
-This is a benchmark that could be used to complete Assignment 2. This benchmark tests the performance of a sparse scientific computing workload called the Conjugate Gradient Method. While it is not necessary to understand the kernel, you can learn more about it [here](https://en.wikipedia.org/wiki/Conjugate_gradient_method).
+This is a benchmark that could be used to complete Assignment 2. This benchmark is called HPCG, and tests the performance of a sparse scientific computing workload called the Conjugate Gradient Method. While it is not necessary to understand the kernel, you can learn more about it [here](https://en.wikipedia.org/wiki/Conjugate_gradient_method).
 
 ## Logging into Junkfood
 This benchmark requires access to a linux environment that can execute perf. The officially supported environment is junkfood. If you have access
